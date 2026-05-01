@@ -27,7 +27,7 @@ This project is an automated dehumidifier controller built with Arduino. It moni
 | Component | Arduino Pin | Notes |
 | :--- | :--- | :--- |
 | **DHT22 Data** | Pin 11 | Requires a pull-up resistor if not a module |
-| **LED (+) ** | Pin 12 | Use a 220-330 Ohm resistor |
+| **LED (+)** | Pin 12 | Use a 220-330 Ohm resistor |
 | **Push Button** | Pin 9 | Connects to GND (Internal Pull-up used) |
 | **Relay Signal** | Pin 6 | Controls the dehumidifier power |
 
